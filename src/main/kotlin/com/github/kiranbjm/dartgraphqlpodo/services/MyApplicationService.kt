@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kiranbjm.dartgraphqlpodo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kiranbjm.dartgraphqlpodo.MyBundle
 
 class MyApplicationService {
 
